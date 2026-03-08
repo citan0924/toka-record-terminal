@@ -252,7 +252,7 @@ function proceedNextDay(){
       }
       updateHeader();
       saveState();
-      
+      init();
     }
   );
 }
