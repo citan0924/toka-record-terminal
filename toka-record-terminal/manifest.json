@@ -1,8 +1,0 @@
-{
-  "name": "東彁総合研究所 記録編纂課端末",
-  "short_name": "記録編纂課端末",
-  "display": "standalone",
-  "start_url": "./",
-  "background_color": "#050705",
-  "theme_color": "#080a08"
-}
